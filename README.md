@@ -14,7 +14,7 @@ Shortly after I started to work on this project, the folks from [DeepSea-Develop
 
 I also switched from other existing firmwares I was trying to their work on the [DeepDeck firmware](https://github.com/DeepSea-Developments/DeepDeck.Ahuyama.fw)
 
-# Warnings
+## Warnings
 My work is distributed in the home it can be useful, but **WITHOUT ANY WARRANTY**
 
 This product is meant to be used with battery, but v1.0 has never be tested in battery power mode right now, so take care of what you do.
