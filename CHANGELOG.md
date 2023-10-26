@@ -4,6 +4,7 @@
 
 
 **Implemented enhancements:**
+- add gitignore file
 
 **Fixed bugs:**
 
